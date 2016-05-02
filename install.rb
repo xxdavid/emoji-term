@@ -10,7 +10,7 @@ emojis = [
     ["cat", "🐈"],
     ["cal", "📅"],
     ["finger", "🖕"],
-    ["grep", "🍇"],
+    ["grep", "🍇", "--color=auto"],
     ["man", "👨"],
     ["rm", "💩"],
     ["say", "👄"],
@@ -37,7 +37,7 @@ emojis.each do | item |
         File.open(file_path, 'w') do | file |
             file.write(
                 "#!/usr/bin/env bash\n\n" +
-                "#{item[0]} \"$@\"\n"
+                "#{item[0]} \"$@\" #{item[2]}\n"
             )
 
             `chmod +x #{file_path}`
