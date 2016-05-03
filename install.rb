@@ -7,27 +7,49 @@ Dir.mkdir(bin_dir) unless File.exists?(bin_dir)
 
 emojis = [
     # System
-    ["cat", "🐈"],
     ["cal", "📅"],
+    ["cat", "🐈"],
+    ["chat", "💬"],
+    ["clear", "🆑"],
+    ["fax", "📠"],
+    ["find", "🔍"],
     ["finger", "🖕"],
+    ["fold", "🙏"],
     ["grep", "🍇", "--color=auto"],
+    ["groups", "👪"],
+    ["head", "🤕"],
+    ["kill", "🗡"],
+    ["locate", "📍"],
+    ["look", "👀"],
+    ["mail", "📬"],
     ["man", "👨"],
+    ["mount", "⛰"],
+    ["port", "🚢"],
+    ["puma", "😾"],
     ["rm", "💩"],
     ["say", "👄"],
+    ["shift", "🔄"],
+    ["size", "📏"],
+    ["swift", "🏃"],
+    ["tie", "👔"],
+    ["time", "⏰"],
+    ["toe", "👣"],
     ["top", "🔝"],
     ["touch", "👉"],
     ["units", "📐"],
+    ["wait", "⏱"],
+    ["what", "🤔"],
     ["zip", "🤐"],
-
 
     # User
     ["atom", "⚛"],
     ["brew", "🍺"],
     ["grunt", "🐗"],
     ["java", "☕"],
-    ["ruby", "💎"],
-    ["rails", "🛤"],
     ["psql", "🐘"],
+    ["python", "🐍"],
+    ["rails", "🛤"],
+    ["ruby", "💎"],
 ]
 
 emojis.each do | item |

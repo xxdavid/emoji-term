@@ -10,14 +10,35 @@
 |-------|---------|
 | 🐈    | cat     |
 | 📅    | cal     |
+| 💬"   | chat    |
+| 🆑"   | clear   |
+| 📠    | fax     |
+| 🔍    | find    |
 | 🖕    | finger  |
 | 🍇    | grep    |
+| 👪    | groups  |
+| 🤕    | head    |
+| 🗡"   | kill    |
+| 📍    | locate  |
+| 👀    | look    |
+| 📬"   | mail    |
+| ⛰    | mount   |
+| 🚢"   | port    |
+| 😾"   | puma    |
+| 🔄"   | shift   |
+| 📏    | size    |
+| 🏃    | swift   |
+| 👔    | tie     |
+| ⏰"   | time    |
+| 👣"   | toe     |
 | 👨    | man     |
 | 💩    | rm      |
 | 👄    | say (OS X)|
 | 🔝    | top     |
 | 👉    | touch   |
 | 📐    | units   |
+| ⏱"   | wait    |
+| 🤔    | what    |
 | 🤐    | zip     |
 
 ### User
@@ -28,9 +49,10 @@
 | 🍺    | [brew](https://brew.sh) |
 | 🐗    | [grunt](https://gruntjs.com) |
 | ☕     | [java](http://java.com)    |
-| 💎    | [ruby](https://www.ruby-lang.org)    |
-| 🛤    | [rails](http://rubyonrails.org) |
 | 🐘    | [pgsql](http://www.postgresql.org)
+| 🐍"   | [python](ttps://www.python.org) |
+| 🛤    | [rails](http://rubyonrails.org) |
+| 💎    | [ruby](https://www.ruby-lang.org)    |
 
 ## Installation
 
