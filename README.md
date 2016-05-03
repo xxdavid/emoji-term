@@ -50,7 +50,7 @@
 | 🐗    | [grunt](https://gruntjs.com) |
 | ☕     | [java](http://java.com)    |
 | 🐘    | [pgsql](http://www.postgresql.org)
-| 🐍    | [python](ttps://www.python.org) |
+| 🐍    | [python](https://www.python.org) |
 | 🛤    | [rails](http://rubyonrails.org) |
 | 💎    | [ruby](https://www.ruby-lang.org)    |
 
