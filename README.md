@@ -10,34 +10,34 @@
 |-------|---------|
 | 🐈    | cat     |
 | 📅    | cal     |
-| 💬"   | chat    |
-| 🆑"   | clear   |
+| 💬    | chat    |
+| 🆑    | clear   |
 | 📠    | fax     |
 | 🔍    | find    |
 | 🖕    | finger  |
 | 🍇    | grep    |
 | 👪    | groups  |
 | 🤕    | head    |
-| 🗡"   | kill    |
+| 🗡    | kill    |
 | 📍    | locate  |
 | 👀    | look    |
-| 📬"   | mail    |
+| 📬    | mail    |
 | ⛰    | mount   |
-| 🚢"   | port    |
-| 😾"   | puma    |
-| 🔄"   | shift   |
+| 🚢    | port    |
+| 😾    | puma    |
+| 🔄    | shift   |
 | 📏    | size    |
 | 🏃    | swift   |
 | 👔    | tie     |
-| ⏰"   | time    |
-| 👣"   | toe     |
+| ⏰    |time    |
+| 👣    | toe     |
 | 👨    | man     |
 | 💩    | rm      |
 | 👄    | say (OS X)|
 | 🔝    | top     |
 | 👉    | touch   |
 | 📐    | units   |
-| ⏱"   | wait    |
+| ⏱    | wait    |
 | 🤔    | what    |
 | 🤐    | zip     |
 
@@ -50,7 +50,7 @@
 | 🐗    | [grunt](https://gruntjs.com) |
 | ☕     | [java](http://java.com)    |
 | 🐘    | [pgsql](http://www.postgresql.org)
-| 🐍"   | [python](ttps://www.python.org) |
+| 🐍    | [python](https://www.python.org) |
 | 🛤    | [rails](http://rubyonrails.org) |
 | 💎    | [ruby](https://www.ruby-lang.org)    |
 | ♨️    | [spring](https://github.com/rails/spring) |
