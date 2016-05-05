@@ -53,6 +53,8 @@
 | 🐍"   | [python](ttps://www.python.org) |
 | 🛤    | [rails](http://rubyonrails.org) |
 | 💎    | [ruby](https://www.ruby-lang.org)    |
+| ♨️    | [spring](https://github.com/rails/spring) |
+| 🦄    | [unicorn](https://unicorn.bogomips.org/) |
 
 ## Installation
 

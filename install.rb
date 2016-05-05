@@ -50,6 +50,8 @@ emojis = [
     ["python", "🐍"],
     ["rails", "🛤"],
     ["ruby", "💎"],
+    ["spring", "♨️"],
+    ["unicorn", "🦄"],
 ]
 
 emojis.each do | item |
