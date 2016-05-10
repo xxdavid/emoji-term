@@ -8,6 +8,7 @@
 
 | emoji | command |
 |-------|---------|
+| 🙌    | bless (OS X)|
 | 🐈    | cat     |
 | 📅    | cal     |
 | 💬    | chat    |
@@ -23,6 +24,7 @@
 | 👀    | look    |
 | 📬    | mail    |
 | ⛰    | mount   |
+| 🔓    | open (OS X)|
 | 🚢    | port    |
 | 😾    | puma    |
 | 🔄    | shift   |

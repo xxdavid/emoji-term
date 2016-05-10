@@ -7,6 +7,7 @@ Dir.mkdir(bin_dir) unless File.exists?(bin_dir)
 
 emojis = [
     # System
+    ["bless", "🙌"],
     ["cal", "📅"],
     ["cat", "🐈"],
     ["chat", "💬"],
@@ -24,6 +25,7 @@ emojis = [
     ["mail", "📬"],
     ["man", "👨"],
     ["mount", "⛰"],
+    ["open", "🔓"],
     ["port", "🚢"],
     ["puma", "😾"],
     ["rm", "💩"],
