@@ -11,37 +11,49 @@
 | 🙌    | bless (OS X)|
 | 🐈    | cat     |
 | 📅    | cal     |
+| 💿    | cd      |
 | 💬    | chat    |
 | 🆑    | clear   |
+| 💑    | date    |
+| 🚪    | exit    |
 | 📠    | fax     |
 | 🔍    | find    |
 | 🖕    | finger  |
+| 🙏    | fold    |
+| 🆓    | free (Linux)  |
 | 🍇    | grep    |
 | 👪    | groups  |
 | 🤕    | head    |
 | 🗡    | kill    |
 | 📍    | locate  |
 | 👀    | look    |
+| 🔑    | login   |
 | 📬    | mail    |
+| 👨    | man     |
 | ⛰    | mount   |
 | 🔓    | open (OS X)|
+| 🏓    | ping    |
 | 🚢    | port    |
 | 😾    | puma    |
+| 📖    | read    |
+| 💩    | rm      |
+| 👄    | say (OS X)|
+| 📺    | screen  |
 | 🔄    | shift   |
 | 📏    | size    |
+| 💤    | sleep   |
 | 🏃    | swift   |
 | 👔    | tie     |
 | ⏰    |time    |
 | 👣    | toe     |
-| 👨    | man     |
-| 💩    | rm      |
-| 👄    | say (OS X)|
 | 🔝    | top     |
 | 👉    | touch   |
 | 📐    | units   |
 | ⏱    | wait    |
 | 🚽    | wc      |
 | 🤔    | what    |
+| 🤷   | whoami (Unicode 9.0) |
+| 👍   | yes     |
 | 🤐    | zip     |
 
 ### User
