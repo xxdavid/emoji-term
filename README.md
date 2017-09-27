@@ -8,7 +8,7 @@
 
 | emoji | command |
 |-------|---------|
-| 🙌    | bless (OS X)|
+| 🙌    | bless (macOS)|
 | 🐈    | cat     |
 | 📅    | cal     |
 | 💿    | cd      |
@@ -31,13 +31,13 @@
 | 📬    | mail    |
 | 👨    | man     |
 | ⛰    | mount   |
-| 🔓    | open (OS X)|
+| 🔓    | open (macOS)|
 | 🏓    | ping    |
 | 🚢    | port    |
 | 😾    | puma    |
 | 📖    | read    |
 | 💩    | rm      |
-| 👄    | say (OS X)|
+| 👄    | say (macOS)|
 | 📺    | screen  |
 | 🔄    | shift   |
 | 📏    | size    |
@@ -80,7 +80,7 @@ cd emoji-term
 echo 'export PATH=$PATH:~/emoji-term/bin' >> ~/.zshrc
 ```
 
-Only tested on OS X (10.11).
+Only tested on macOS.
 
 ## Contribute
 Feel free to add your favourite commands and emojis.
