@@ -2,6 +2,17 @@
 
 ![Screenshot](screenshot.png)
 
+## Installation
+
+```bash
+git clone https://github.com/xxdavid/emoji-term
+cd emoji-term
+./install.rb
+echo 'export PATH=$PATH:~/emoji-term/bin' >> ~/.zshrc
+```
+
+Only tested on macOS.
+
 ## Supported commands
 
 ### System
@@ -70,17 +81,6 @@
 | 💎    | [ruby](https://www.ruby-lang.org)    |
 | ♨️    | [spring](https://github.com/rails/spring) |
 | 🦄    | [unicorn](https://unicorn.bogomips.org/) |
-
-## Installation
-
-```bash
-git clone https://github.com/xxdavid/emoji-term
-cd emoji-term
-./install.rb
-echo 'export PATH=$PATH:~/emoji-term/bin' >> ~/.zshrc
-```
-
-Only tested on macOS.
 
 ## Contribute
 Feel free to add your favourite commands and emojis.
